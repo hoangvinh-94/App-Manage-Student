@@ -13,7 +13,7 @@ class Student{
     private var nameSt : String
     private var universitySt : String
     private var descriptionSt : String
-    private var yearOldSt = -1
+    private var yearOldSt : Int
     
     init(name : String, university: String, description: String, yearOld: Int) {
         nameSt = name

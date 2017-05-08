@@ -119,7 +119,7 @@
                                 <nil key="highlightedColor"/>
                             </label>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" verticalHuggingPriority="251" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Mh4-j1-SdK">
-                                <rect key="frame" x="72" y="145" width="48" height="21"/>
+                                <rect key="frame" x="72" y="145" width="198" height="21"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
@@ -147,11 +147,11 @@
                             <constraint firstAttribute="trailing" secondItem="QuQ-WH-DKX" secondAttribute="trailing" constant="5" id="Hoy-gJ-dbx"/>
                             <constraint firstItem="QDB-tC-pFe" firstAttribute="leading" secondItem="2wp-DF-nTa" secondAttribute="leading" constant="20" id="Ltp-ro-guj"/>
                             <constraint firstItem="Mh4-j1-SdK" firstAttribute="leading" secondItem="Nkf-rX-LRv" secondAttribute="trailing" constant="10" id="Qw2-Dm-eCu"/>
-                            <constraint firstAttribute="trailing" secondItem="Mh4-j1-SdK" secondAttribute="trailing" constant="200" id="S04-Lf-0ml"/>
                             <constraint firstItem="Nkf-rX-LRv" firstAttribute="leading" secondItem="2wp-DF-nTa" secondAttribute="leading" constant="20" id="U0G-eH-7AC"/>
                             <constraint firstAttribute="trailing" secondItem="mqK-8V-x20" secondAttribute="trailing" constant="5" id="VaA-NJ-nqu"/>
                             <constraint firstItem="Mh4-j1-SdK" firstAttribute="top" secondItem="mqK-8V-x20" secondAttribute="bottom" constant="10" id="ViF-GZ-rXr"/>
                             <constraint firstItem="WLD-VF-4Zz" firstAttribute="leading" secondItem="2wp-DF-nTa" secondAttribute="leading" constant="20" id="VvM-y7-nSr"/>
+                            <constraint firstAttribute="trailing" secondItem="Mh4-j1-SdK" secondAttribute="trailing" constant="50" id="ZpE-ZZ-wD1"/>
                             <constraint firstItem="Nkf-rX-LRv" firstAttribute="top" secondItem="Q23-kr-NyZ" secondAttribute="bottom" constant="10" id="ePR-e4-m2k"/>
                             <constraint firstItem="mqK-8V-x20" firstAttribute="leading" secondItem="Q23-kr-NyZ" secondAttribute="trailing" constant="10" id="iUd-4M-8e9"/>
                             <constraint firstItem="QuQ-WH-DKX" firstAttribute="top" secondItem="Mh4-j1-SdK" secondAttribute="bottom" constant="10" id="lnn-rR-NQL"/>

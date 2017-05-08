@@ -24,7 +24,7 @@ class StudentDetailViewController: UIViewController {
 
         // Do any additional setup after loading the view.
         nameLabel.text = infoStudent?.getName()
-        ageLabel.text = String(describing: infoStudent?.getYearOld())
+        ageLabel.text = String( describing: infoStudent?.getYearOld())
         universityLabel.text = infoStudent?.getUniversity()
         descriptionLabel.text = infoStudent?.getDescription()
     }

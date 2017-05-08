@@ -44,10 +44,10 @@ class NewStudentViewController: UIViewController, UITextFieldDelegate, UITextVie
             
         }
         else{
-            Contants .isLoadData = true
+            NewStudent.isLoadData = true
             let st : Student = Student(name: stName.text!, university: stUniversity.text!, description: stDescription.text!, yearOld: Int(stAge.text!)! )
             
-            Contants .student = st
+            NewStudent.student = st
             self.navigationController?.popViewController(animated: true)
         }
     }

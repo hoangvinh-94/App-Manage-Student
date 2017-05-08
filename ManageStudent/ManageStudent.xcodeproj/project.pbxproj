@@ -19,7 +19,7 @@
 		6038BE3C1EBEC7A2001D4E74 /* StudentDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6038BE3B1EBEC7A2001D4E74 /* StudentDetailViewController.swift */; };
 		6038BE3E1EBED09D001D4E74 /* StudentTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6038BE3D1EBED09D001D4E74 /* StudentTableViewController.swift */; };
 		6038BE401EBEEFF0001D4E74 /* NewStudentViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6038BE3F1EBEEFEF001D4E74 /* NewStudentViewController.swift */; };
-		603CBD3D1EBF8AC9000E5397 /* Contants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 603CBD3C1EBF8AC9000E5397 /* Contants.swift */; };
+		603CBD3D1EBF8AC9000E5397 /* NewStudent.swift in Sources */ = {isa = PBXBuildFile; fileRef = 603CBD3C1EBF8AC9000E5397 /* NewStudent.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -58,7 +58,7 @@
 		6038BE3B1EBEC7A2001D4E74 /* StudentDetailViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = StudentDetailViewController.swift; sourceTree = "<group>"; };
 		6038BE3D1EBED09D001D4E74 /* StudentTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = StudentTableViewController.swift; sourceTree = "<group>"; };
 		6038BE3F1EBEEFEF001D4E74 /* NewStudentViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NewStudentViewController.swift; sourceTree = "<group>"; };
-		603CBD3C1EBF8AC9000E5397 /* Contants.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Contants.swift; sourceTree = "<group>"; };
+		603CBD3C1EBF8AC9000E5397 /* NewStudent.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NewStudent.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -120,7 +120,7 @@
 				6034ACC21EBEA9B0009905C2 /* LaunchScreen.storyboard */,
 				6034ACC51EBEA9B0009905C2 /* Info.plist */,
 				6034ACE71EBEAA86009905C2 /* Student.swift */,
-				603CBD3C1EBF8AC9000E5397 /* Contants.swift */,
+				603CBD3C1EBF8AC9000E5397 /* NewStudent.swift */,
 			);
 			path = ManageStudent;
 			sourceTree = "<group>";
@@ -280,7 +280,7 @@
 				6034ACBC1EBEA9AF009905C2 /* ViewController.swift in Sources */,
 				6034ACE81EBEAA86009905C2 /* Student.swift in Sources */,
 				6038BE3E1EBED09D001D4E74 /* StudentTableViewController.swift in Sources */,
-				603CBD3D1EBF8AC9000E5397 /* Contants.swift in Sources */,
+				603CBD3D1EBF8AC9000E5397 /* NewStudent.swift in Sources */,
 				6038BE3C1EBEC7A2001D4E74 /* StudentDetailViewController.swift in Sources */,
 				6038BE401EBEEFF0001D4E74 /* NewStudentViewController.swift in Sources */,
 				6034ACBA1EBEA9AF009905C2 /* AppDelegate.swift in Sources */,

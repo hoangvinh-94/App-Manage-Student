@@ -28,11 +28,11 @@ class StudentTableViewController: UITableViewController {
         tableView.tableHeaderView = searchController.searchBar
     }
     override func viewWillAppear(_ animated: Bool) {
-        if Contants.isLoadData {
-            let student: Student = Contants.student
+        if NewStudent.isLoadData {
+            let student: Student = NewStudent.student
             Students.append(student)
             tableView.reloadData()
-            Contants.isLoadData = false
+            NewStudent.isLoadData = false
         }
     }
     
